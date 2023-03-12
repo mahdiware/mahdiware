@@ -20,7 +20,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a target="_blank" href="https://www.buymeacoffee.com/mahdiware"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/mahdiware" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a></p><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiware&show_icons=true&locale=en&layout=compact" alt="mahdiware" /></p>
