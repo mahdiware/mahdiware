@@ -23,7 +23,9 @@
 <p><a href="https://www.buymeacoffee.com/mahdiware"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a></p><br><br>
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiware&show_icons=true&locale=en&layout=compact" alt="mahdiware" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdiware&show_icons=true&locale=en" alt="mahdiware" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiware&" alt="mahdiware" /></p>
+
