@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/mahdiware/mahdiware/blob/master/header-logo.gif">
+<img align="center" style="width: 1500px; height: 500px; object-fit: cover;" src="https://github.com/mahdiware/mahdiware/blob/master/header-logo.gif">
 <h1 align="center">Hi 👋, I'm Mahdiware</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
