@@ -24,10 +24,11 @@
 <p align="left"> <a href="https://github.com/mahdiware"><img src="https://github-profile-trophy.vercel.app/?username=mahdiware" alt="mahdiware" /></a> </p>
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Donate:</h3>
 
-<p><a href="https://www.buymeacoffee.com/mahdiware" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a></p><br>
-
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/mahdiware)
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiware&show_icons=true&locale=en&layout=compact" alt="mahdiware" /></p>
 
